@@ -18,14 +18,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dey_animes11491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dey_animes11491" height="30" width="40" /></a>
+<a href="https://twitter.com/dey_animes11491" target="blank"><img align="center" src="https://img.icons8.com/color/48/undefined/twitter.png" alt="dey_animes11491" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/animesh-dey1425/" target="blank"><img align="center" src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="dey_animes11491" height="40" width="40" /></a>
 </p>
 <br>
 
 ## :hammer_and_wrench: Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425" /></p>
- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=algolia&preferLogin=false">    <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=animesh-1425&theme=algolia">
+
+ <a href="#">    <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=animesh-1425&theme=algolia" ></a>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425"/></p>
 
 
 <br>
