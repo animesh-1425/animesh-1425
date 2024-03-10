@@ -27,7 +27,7 @@
 
  <a align="left" href="#"> <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425"/></p>
 <a align="right"  href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=animesh-1425&theme=algolia" ></a>
 
 
