@@ -25,7 +25,8 @@
 ## :hammer_and_wrench: Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425" /></p>
  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=algolia&preferLogin=false">    <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-1425&" alt="animesh-1425" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=animesh-1425&theme=algolia">
+
 
 <br>
 <img src="https://raw.githubusercontent.com/animesh-1425/output/snake.svg" alt="snake">
@@ -88,7 +89,8 @@
 </table>
 
 <br>
-## :man_technologist: Coding profiles
+
+## 👨‍💻: Coding Platfroms
 
 <div align="center">
  <a href="https://auth.geeksforgeeks.org/user/pritam_sarbajna/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Website"/></a>
@@ -96,6 +98,7 @@
  <a href="https://www.hackerrank.com/Pritamsarbajna10"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
 
 </div> 
+<br>
 
  
 <div align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Thankyou+for+visiting+%F0%9F%92%96" alt="Typing SVG" /></a></div>
