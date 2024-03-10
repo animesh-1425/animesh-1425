@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Dey</h1>
-<h3 align="center">Turning complexity into elegance through code 🚀</h3>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Deciphering+complexity+with+code+wizardry+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh-1425&label=Profile%20views&color=0e75b6&style=flat" alt="animesh-1425" /> </p>
 
@@ -20,8 +20,62 @@
 <a href="https://twitter.com/dey_animes11491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dey_animes11491" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## :hammer_and_wrench: Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+ <h3 align="center"> Programming </h3>
+      
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/></a>
+   <a href="https://www.python.org/"><img src="https://img.icons8.com/fluency/48/undefined/python.png"/></a>
+  <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/></a>
+   
+     
+<h3 align="center"> Web Development </h3>
+     
+ <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/undefined/css3.png"/></a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/></a>
+ <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/></a>
+ <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/undefined/react-native.png"/></a> 
+ <a href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+
+ <h3 align="center"> Tools </h3>
+     
+ <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/></a>
+ <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/48/undefined/pycharm.png"/></a>
+ <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/></a>
+ <img src="https://img.icons8.com/color/48/sublime-text.png"/>
+
+</td>
+   
+<td width="50%" valign="top"> 
+
+<h3 align="center"> Android development </h3>
+  
+  <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/XML"><img src="https://img.icons8.com/external-fauzidea-flat-fauzidea/64/undefined/external-xml-file-file-extension-fauzidea-flat-fauzidea.png" width="10%"/></a>
+
+  
+<h3 align="center"> Database </h3>
+
+ 
+  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+  <a href="https://www.firebase.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+  <a href="https://www.oracle.com/"><img src="https://img.icons8.com/color/48/000000/oracle-logo"/></a>
+ 
+    
+<h3 align="center"> OS </h3>
+
+  <a href="https://www.microsoft.com/en-in/"><img src="https://img.icons8.com/color/48/undefined/windows-logo.png"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
+ 
+![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
+</td>
+</tr>
+
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425" /></p>
 
