@@ -29,7 +29,7 @@
 
 
 <br>
-<img src="https://raw.githubusercontent.com/animesh-1425/output/snake.svg" alt="snake">
+![snake gif](https://github.com/animesh-1425/animesh-1425/blob/output/github-contribution-grid-snake.gif)
 
 ## :hammer_and_wrench: Skills
 
