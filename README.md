@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height=300 width=1300 alt="banner">
 <h1 align="center">Hi 👋, I'm Animesh Dey</h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Deciphering+complexity+with+code+wizardry+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a></div>
 <img align="right" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVoZ2lsOXR0eWM4MG8yeTJpM3lmbHRjY2N3aTNtbmV1cjV6dzF6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
