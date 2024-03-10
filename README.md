@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Animesh Dey</h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Deciphering+complexity+with+code+wizardry+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a></div>
-
+<img align="right" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVoZ2lsOXR0eWM4MG8yeTJpM3lmbHRjY2N3aTNtbmV1cjV6dzF6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh-1425&label=Profile%20views&color=0e75b6&style=flat" alt="animesh-1425" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dey_animes11491" target="blank"><img src="https://img.shields.io/twitter/follow/dey_animes11491?logo=twitter&style=for-the-badge" alt="dey_animes11491" /></a> </p>
@@ -26,7 +27,8 @@
  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=algolia&preferLogin=false">    <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-1425&" alt="animesh-1425" /></p>
 
-
+<br>
+<img src="https://raw.githubusercontent.com/animesh-1425/output/snake.svg" alt="snake">
 
 ## :hammer_and_wrench: Skills
 
@@ -38,7 +40,7 @@
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/></a>
    <a href="https://www.python.org/"><img src="https://img.icons8.com/fluency/48/undefined/python.png"/></a>
   <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/></a>
-   
+
      
 <h3 align="center"> Web Development </h3>
      
@@ -84,12 +86,16 @@
 </tr>
 
 </table>
+
+<br>
+## :man_technologist: Coding profiles
+
+<div align="center">
+ <a href="https://auth.geeksforgeeks.org/user/pritam_sarbajna/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Website"/></a>
+ <a href="https://leetcode.com/Animesh1425/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Website"/></a>
+ <a href="https://www.hackerrank.com/Pritamsarbajna10"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
+
+</div> 
+
  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animesh-1425&show_icons=true&locale=en" alt="animesh-1425" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-1425&" alt="animesh-1425" /></p>
-<hr>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Thankyou+for+visiting+%F0%9F%92%96" alt="Typing SVG" /></a></div>
+<div align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Thankyou+for+visiting+%F0%9F%92%96" alt="Typing SVG" /></a></div>
