@@ -19,6 +19,14 @@
 <p align="left">
 <a href="https://twitter.com/dey_animes11491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dey_animes11491" height="30" width="40" /></a>
 </p>
+<br>
+
+## :hammer_and_wrench: Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425" /></p>
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=algolia&preferLogin=false">    <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-1425&" alt="animesh-1425" /></p>
+
+
 
 ## :hammer_and_wrench: Skills
 
@@ -76,9 +84,12 @@
 </tr>
 
 </table>
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animesh-1425&show_icons=true&locale=en" alt="animesh-1425" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-1425&" alt="animesh-1425" /></p>
+<hr>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Thankyou+for+visiting+%F0%9F%92%96" alt="Typing SVG" /></a></div>
