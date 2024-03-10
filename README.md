@@ -25,8 +25,8 @@
 
 ## :hammer_and_wrench: Github Stats
 
- <a href="#"> <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
-<a  href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=animesh-1425&theme=algolia" ></a>
+ <a align="center" href="#"> <img  alt="animesh-1425's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/animesh-1425?cardType=github&theme=algolia&preferLogin=false" />  </a>
+<a align="center" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=animesh-1425&theme=algolia" ></a>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-1425&show_icons=true&locale=en&layout=compact" alt="animesh-1425"/></p>
 
 
