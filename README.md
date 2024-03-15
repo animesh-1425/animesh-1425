@@ -65,10 +65,6 @@
    
 <td width="50%" valign="top"> 
 
-<h3 align="center"> Android development </h3>
-  
-  <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/></a>
-  <a href="https://en.wikipedia.org/wiki/XML"><img src="https://img.icons8.com/external-fauzidea-flat-fauzidea/64/undefined/external-xml-file-file-extension-fauzidea-flat-fauzidea.png" width="10%"/></a>
 
   
 <h3 align="center"> Database </h3>
