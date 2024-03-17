@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 👨‍💻 All of my projects are available at [animeshdey.me](animeshdey.me)
+- 👨‍💻 All of my projects are available at <a href="https://animeshdey.me/">animeshdey.me</a>
 
 - 💬 Ask me about **React,Java**
 
