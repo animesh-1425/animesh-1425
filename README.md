@@ -91,9 +91,10 @@
 ## 👨‍💻: Coding Platfroms
 
 <div align="center">
- <a href="https://auth.geeksforgeeks.org/user/pritam_sarbajna/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Website"/></a>
+ 
  <a href="https://leetcode.com/Animesh1425/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Website"/></a>
- <a href="https://www.hackerrank.com/Pritamsarbajna10"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
+ <a href="https://www.hackerrank.com/profile/animesh1425"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
+ <a href="https://auth.geeksforgeeks.org/user/animes"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Website"/></a>
 
 </div> 
 <br>
